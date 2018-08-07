@@ -11,12 +11,10 @@ puts "What time does the party start?"
 party_time = gets.chomp
 
 puts "What is the latest date a guest should RSVP?"
-date = gets.chomp
-
+RSVP_date = gets.chomp
 
 puts "What is your name, the host of the party?"
-name = gets.chomp
-#{host_name}gets.chomp
+host_name = gets.chomp
 
 
 puts "Dear #{guest_name},"

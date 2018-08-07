@@ -1,4 +1,4 @@
-puts "Hi, you've been invited to a party! What is your name?"
+puts "What is the name of your guest?"
 guest_name = gets.chomp
 
 puts "What is the name of the party or what type of party is it?"
@@ -24,4 +24,5 @@ Dear #{guest_name},
 You are cordially invited to the Best #{party_name} Ever on #{party_date} at #{party_time}. Please RSVP no later than #{RSVP_date}.
 
 Sincerely,
-#{host_name}"
+#{host_name}
+ "

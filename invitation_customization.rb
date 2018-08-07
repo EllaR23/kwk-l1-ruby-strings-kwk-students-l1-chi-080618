@@ -22,6 +22,6 @@ puts "Dear #{guest_name},"
 puts"You are cordially invited to the Best #{party_name} Ever on #{party_date} at #{party_time}. Please RSVP no later than #{RSVP_date}."
 
 puts "Sincerely,"
-"#{host_name}"
+puts "#{host_name}"
 
 

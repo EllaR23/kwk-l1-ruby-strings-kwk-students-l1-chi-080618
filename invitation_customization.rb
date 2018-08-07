@@ -23,5 +23,3 @@ puts"You are cordially invited to the Best #{party_name} Ever on #{party_date} a
 
 puts "Sincerely,"
 puts "#{host_name}"
-
-

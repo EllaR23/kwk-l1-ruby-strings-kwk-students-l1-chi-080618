@@ -1,4 +1,4 @@
-puts "What is the guest's name?"
+puts "Hi, you've been invited to a party! What is your name?"
 guest_name = gets.chomp
 
 puts "What is the name of the party or what type of party is it?"

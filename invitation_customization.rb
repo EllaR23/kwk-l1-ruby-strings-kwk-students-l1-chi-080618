@@ -10,7 +10,8 @@ puts "What date is the party?"
 puts "What time does the party start?"
 #{party_time}gets.chomp
 
-puts ""
+puts "What is the latest date a guest should RSVP?"
+#{RSVP_date}gets.chomp
 
 puts "What is your name, the host of the party?"
 #{host_name}gets.chomp
@@ -18,8 +19,9 @@ puts "What is your name, the host of the party?"
 
 puts "Dear #{guest_name},"
 
-You are cordially invited to the Best #{party_name} Ever on #{party_date} at #{party_time}. Please RSVP no later than #{} .
+"You are cordially invited to the Best #{party_name} Ever on #{party_date} at #{party_time}. Please RSVP no later than #{}."
 
-Sincerely,
+"Sincerely,"
+"#{}"
 
 #{}

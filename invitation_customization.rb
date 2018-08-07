@@ -19,9 +19,9 @@ puts "What is your name, the host of the party?"
 
 puts "Dear #{guest_name},"
 
-"You are cordially invited to the Best #{party_name} Ever on #{party_date} at #{party_time}. Please RSVP no later than #{}."
+"You are cordially invited to the Best #{party_name} Ever on #{party_date} at #{party_time}. Please RSVP no later than #{RSVP_date}."
 
 "Sincerely,"
-"#{}"
+"#{host_name}"
 
-#{}
+

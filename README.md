@@ -10,10 +10,10 @@ puts "What is the name of the party or what type of party is it?"
 #{party_name}gets.chomp
 
 puts "What date is the party?"
-
+#{party_name}gets.chomp
 
 puts "What time does the party start?"
-
+#{party_name}gets.chomp
 
 puts "What is your name, the host of the party?"
 
